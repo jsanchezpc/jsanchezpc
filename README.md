@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge S.</h1>
-<h3 align="center">Web Developer | Tech Enthusiast | Eternal Learner</h3>
+<h3 align="center">Web Developer | Web/IoT/Cloud Multi-Agent Systems Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
