@@ -37,7 +37,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jsanchezpc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsanchezpc&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
+</p>
+
+<!-- <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=jsanchezpc&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsanchezpc&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
-</div>
+</div> -->
