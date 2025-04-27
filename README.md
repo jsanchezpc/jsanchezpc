@@ -26,10 +26,10 @@
 
 ---
 
-## 🌱 Currently Learning
-- 🧠 Artificial Intelligence for web and system projects
-- 🔧 Building Visual Studio Code extensions
-- 🐧 Custom Linux operating systems (Linux From Scratch project)
+## 🌱 Currently Building
+- 🧠 Artificial Intelligence integrations for webapps and desktop 
+- 🔧 Creating MCPs & Tools for Multi Agent Systems
+- 🐧 AI Powered Text Editor (Digital Product)
 - 🎮 Exploring Unreal Engine 5
 
 ## 📈 GitHub Stats
