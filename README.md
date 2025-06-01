@@ -27,8 +27,7 @@
 
 ## 🌱 Currently Building
 - 🧠 Artificial Intelligence integrations for webapps and desktop 
-- 🔧 Creating MCPs & Tools for Multi Agent Systems
-- 🐧 AI Powered Text Editor (Digital Product)
+- 🔧 Desktop super assistant powered by AI
 - 🎮 Exploring Unreal Engine 5
 
 ## 📈 GitHub Stats
