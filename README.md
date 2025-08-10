@@ -12,22 +12,20 @@
 </p>
 
 <h3 align="center">JavaScript Full Stack Developer | Engineering fanatic</h3>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
-</p>
-
- <div align=center>
+<div align=center>
   <a href="mailto:jsanchezpc@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://www.linkedin.com/in/jorgesanchezaguila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
- </div> 
+</div> 
 
 <p align=left>
-  +9 years of coding. Now learning some Machine and Deep Learning! Most of my projects are private because I wanted to ship them, but never did. Maybe some day heh. I love thinking about ideas that solves real problems. But I do love more creating freely, like my own Operating System with Rust (I don't know Rust, yet). Or exploring Unreal Engine 5, the Roblox Studio (no jokes), or implementing AIs in my system to power up my PC.
+    +9 years of coding. Now learning some Machine and Deep Learning! Most of my projects are private because I wanted to ship them, but never did. Maybe some day heh. I love thinking about ideas that solves real problems. But I do love more creating freely, like my own       Operating System with Rust (I don't know Rust, yet). Or exploring Unreal Engine 5, the Roblox Studio (no jokes), or implementing AIs in my system to power up my PC.
 </p>
 
 ---
 
-## 🌱 Currently Building
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Currently+Building" alt="Typing SVG" />
+</p>
 - 🧠 Artificial Intelligence integrations for webapps and desktop 
 - 🔧 Desktop super assistant powered by AI
 - 💻 My very own, AI-powered, Operating System with Rust
