@@ -28,10 +28,10 @@
 </p>
 
 <div align=center>
-- 🧠 Artificial Intelligence integrations for webapps and desktop 
-- 🔧 Desktop super assistant powered by AI
-- 💻 My very own, AI-powered, Operating System with Rust
-- 🎮 Exploring Unreal Engine 5
+  - 🧠 Artificial Intelligence integrations for webapps and desktop 
+  - 🔧 Desktop super assistant powered by AI
+  - 💻 My very own, AI-powered, Operating System with Rust
+  - 🎮 Exploring Unreal Engine 5
 </div>
 
 ## 📈 GitHub Stats
