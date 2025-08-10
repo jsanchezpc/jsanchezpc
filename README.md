@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋</h1>
-<sub align="center">I'm Jorge Sánchez</sub>
+<h1 align="center">Jorge Sánchez</h1>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
