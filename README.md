@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge S.</h1>
 
 <p align="center">
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
+  
 
 </p>
 <h3 align="center">Web Developer | Web/IoT/Cloud Multi-Agent Systems Engineer</h3>
@@ -28,6 +28,7 @@
 ## 🌱 Currently Building
 - 🧠 Artificial Intelligence integrations for webapps and desktop 
 - 🔧 Desktop super assistant powered by AI
+- 💻 My very own, AI-powered, Operating System with Rust
 - 🎮 Exploring Unreal Engine 5
 
 ## 📈 GitHub Stats
