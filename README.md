@@ -29,10 +29,10 @@
 
 <div align=center>
   <ul>
-    - 🧠 Artificial Intelligence integrations for webapps and desktop 
-    - 🔧 Desktop super assistant powered by AI
-    - 💻 My very own, AI-powered, Operating System with Rust
-    - 🎮 Exploring Unreal Engine 5
+    <li>- 🧠 Artificial Intelligence integrations for webapps and desktop </li>
+    <li>- 🔧 Desktop super assistant powered by AI</li>
+    <li>- 💻 My very own, AI-powered, Operating System with Rust</li>
+    <li>- 🎮 Exploring Unreal Engine 5</li>
   </ul>
 </div>
 
