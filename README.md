@@ -23,7 +23,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Currently+Building" alt="Typing SVG" />
 </p>
 - 🧠 Artificial Intelligence integrations for webapps and desktop 
