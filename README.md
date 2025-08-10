@@ -27,13 +27,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Currently+Building" alt="Typing SVG" />
 </p>
 
-<div align=center>
-  <ul>
-    <li>- 🧠 Artificial Intelligence integrations for webapps and desktop </li>
-    <li>- 🔧 Desktop super assistant powered by AI</li>
-    <li>- 💻 My very own, AI-powered, Operating System with Rust</li>
-    <li>- 🎮 Exploring Unreal Engine 5</li>
-  </ul>
+<div align=left>
+    - 🧠 Artificial Intelligence integrations for webapps and desktop
+    - 🔧 Desktop super assistant powered by AI
+    - 💻 My very own, AI-powered, Operating System with Rust
+    - 🎮 Exploring Unreal Engine 5
 </div>
 
 ## 📈 GitHub Stats
