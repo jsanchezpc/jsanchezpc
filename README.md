@@ -22,6 +22,8 @@
     +9 years coding for the Web. Currently learning Machine Learning and Deep Learning with Python. Passionate about Rust ❤️‍🔥. Open to collaborating on open-source projects, especially Rust-based ones ☺️
 </p>
 
+
+
 ---
 
 <p align="center">
@@ -34,7 +36,16 @@
 
 ## 📈 GitHub Stats
 
-<picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jsanchezpc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsanchezpc&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
+</p>
+
+<div align="center">
+  <picture >
   <source
     media="(prefers-color-scheme: dark)"
     srcset="images/breakout-dark.svg"
@@ -45,14 +56,7 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jsanchezpc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsanchezpc&layout=compact&theme=tokyonight&hide_title=true" alt="Top Languages" />
-</p>
+</div>
 
 <!-- <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=jsanchezpc&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
