@@ -19,7 +19,7 @@
 </div> 
 
 <p align=left>
-    +9 years of coding. Now learning some Machine and Deep Learning! Most of my projects are private because I wanted to ship them, but never did. Maybe some day heh. I love thinking about ideas that solves real problems. But I do love more creating freely, like my own       Operating System with Rust (I don't know Rust, yet). Or exploring Unreal Engine 5, the Roblox Studio (no jokes), or implementing AIs in my system to power up my PC.
+    +9 years coding for the Web. Currently learning Machine Learning and Deep Learning with Python. Passionate about Rust ❤️‍🔥. Open to collaborating on open-source projects, especially Rust-based ones ☺️
 </p>
 
 ---
