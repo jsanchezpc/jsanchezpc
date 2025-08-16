@@ -33,6 +33,18 @@
 
 ## 📈 GitHub Stats
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jsanchezpc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
