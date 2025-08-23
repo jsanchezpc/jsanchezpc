@@ -19,7 +19,7 @@
 </div> 
 
 <p align=left>
-    +9 years coding for the Web. Currently learning Machine Learning and Deep Learning with Python. Passionate about Rust ❤️‍🔥. Open to collaborating on open-source projects, especially Rust-based ones ☺️
+    +9 years coding for the Web. Currently learning Machine Learning and Deep Learning with Python. Passionate about Rust ❤️‍🔥. Open to collaborating on open-source projects, especially Rust-based ones.
 </p>
 
 
