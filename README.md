@@ -17,12 +17,12 @@
 <h2>Projects</h2>
 
 <div align=left>
-    <li>
-      <ul>Mataró App: Social Network and Fixer</ul>
-      <ul>Dragona: YouTube Playlist Audio Scrapper</ul>
-      <ul>QueAI: Open Source AI Desktop Companion</ul>
-      <ul>Learn Rust (The Rust Book & 100 exercises to learn Rust)</ul>
-    </li>
+    <ul>
+      <li>Mataró App: Social Network and Fixer</li>
+      <li>Dragona: YouTube Playlist Audio Scrapper</li>
+      <li>QueAI: Open Source AI Desktop Companion</li>
+      <li>Learn Rust (The Rust Book & 100 exercises to learn Rust)</li>
+    </ul>
 </div>
 
 ## 📈 GitHub Stats
