@@ -21,6 +21,7 @@
       <li>Dragona: YouTube Playlist Audio Scrapper</li>
       <li>QueAI: Open Source AI Desktop Companion</li>
       <li>Learn Rust (The Rust Book & 100 exercises to learn Rust)</li>
+      <li>Learn ML/DL (Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow book)</li>
     </ul>
 </div>
 
