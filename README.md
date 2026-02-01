@@ -14,12 +14,15 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Currently+Building" alt="Typing SVG" />
-</p>
+<h2>Projects</h2>
 
-<div align=center>
-    🧠 Artificial Intelligence integrations for webapps and desktop 🔧 Desktop super assistant powered by AI 💻 Custom Rust kernel 🎮 Exploring Unreal Engine 5
+<div align=left>
+    <li>
+      <ul>Mataró App: Social Network and Fixer</ul>
+      <ul>Dragona: YouTube Playlist Audio Scrapper</ul>
+      <ul>QueAI: Open Source AI Desktop Companion</ul>
+      <ul>Learn Rust (The Rust Book & 100 exercises to learn Rust)</ul>
+    </li>
 </div>
 
 ## 📈 GitHub Stats
