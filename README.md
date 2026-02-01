@@ -14,7 +14,7 @@
 
 ---
 
-<h2>Projects</h2>
+<h2>Current Projects</h2>
 
 <div align=left>
     <ul>
