@@ -1,10 +1,9 @@
 <h3 align="left">Software & Agent Developer</h3>
-<h1 align="left">Jorge Sánchez</h1>
-
-<div align=center>
+<h1 align="left">Jorge Sánchez 
   <a href="mailto:jsanchezpc@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
   <a href="https://www.linkedin.com/in/jorgesanchezaguila/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-</div> 
+</h1>
+
 
 <p align=left>
   Around 10 years of experience building software, especially full-stack websites and SPAs, including 3 years of professional remote work for clients and startups.
