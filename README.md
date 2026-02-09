@@ -17,6 +17,7 @@
 
 <div align=left>
     <ul>
+      <li>Corpo Lies Daily: Satirical News</li>
       <li>Mataró App: Social Network and Fixer</li>
       <li>Dragona: YouTube Playlist Audio Scrapper</li>
       <li>QueAI: Open Source AI Desktop Companion</li>
